@@ -1,2 +1,0 @@
-# DevOps_ARM_Function
-DevOps_ARM_Function
